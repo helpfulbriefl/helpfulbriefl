@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-labelledby="title desc">
+<title id="title">helpfulbriefl — practical tools, built to be used</title><desc id="desc">yumi: Windows apps, AI integrations and open source.</desc>
+<rect width="600" height="300" rx="12" fill="#0d1117"/>
+<rect x="1" y="1" width="598" height="298" rx="11" fill="none" stroke="#30363d"/>
+<rect x="28" y="28" width="5" height="244" rx="2" fill="#ff5555"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="56" y="67" fill="#ff7777" font-size="26" font-weight="700" letter-spacing="1">YUMI / DEVELOPER</text>
+<text x="54" y="133" fill="#f0f6fc" font-size="52" font-weight="700" letter-spacing="-1">helpfulbriefl</text>
+<text x="56" y="185" fill="#e6edf3" font-size="26">Practical tools. Built to be used.</text>
+<text x="56" y="234" fill="#aeb8c4" font-size="26">Windows apps · AI integrations</text>
+<text x="56" y="271" fill="#aeb8c4" font-size="26">Open source</text>
+</g></svg>

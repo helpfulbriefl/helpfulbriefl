@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">helpfulbriefl — practical tools, built to be used</title>
+<desc id="desc">Developer profile for yumi: Windows apps, AI integrations and open-source experiments.</desc>
+<defs><linearGradient id="accent" x1="0" x2="1"><stop stop-color="#ff5555"/><stop offset="1" stop-color="#ad3038"/></linearGradient></defs>
+<rect width="1200" height="300" rx="12" fill="#0d1117"/>
+<rect x="1" y="1" width="1198" height="298" rx="11" fill="none" stroke="#30363d"/>
+<rect x="36" y="36" width="6" height="228" rx="3" fill="url(#accent)"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="68" y="69" fill="#ff7777" font-size="22" font-weight="700" letter-spacing="3">YUMI / INDEPENDENT DEVELOPER</text>
+<text x="66" y="146" fill="#f0f6fc" font-size="68" font-weight="700" letter-spacing="-2">helpfulbriefl</text>
+<text x="68" y="200" fill="#e6edf3" font-size="29">Practical tools. Built to be used.</text>
+<text x="68" y="250" fill="#aeb8c4" font-size="22">Windows apps · AI integrations · Open source</text>
+<rect x="856" y="69" width="272" height="162" rx="8" fill="#161b22" stroke="#30363d"/>
+<rect x="880" y="94" width="30" height="5" rx="2" fill="#ff7777"/>
+<text x="880" y="137" fill="#f0f6fc" font-size="25" font-weight="700">BUILD</text>
+<text x="880" y="173" fill="#c2cbd5" font-size="25">TEST</text>
+<text x="880" y="209" fill="#c2cbd5" font-size="25">ITERATE</text>
+<path d="M1075 124l16 14-16 14M1099 193h-25" fill="none" stroke="#ff7777" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>
