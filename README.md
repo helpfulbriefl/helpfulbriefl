@@ -41,13 +41,11 @@ An experimental interactive 3D aquarium built with JavaScript and Three.js—a p
 
 ## What I work on
 
-| Area | Focus |
-| --- | --- |
-| Desktop development | C#, WinForms, Windows utilities and practical interfaces. |
-| APIs & automation | Python, bots, web services and provider integrations. |
-| Web experiments | JavaScript, HTML/CSS and interactive demos. |
-| Product thinking | Specifications, architecture, business logic and integration planning. |
-| Technical content | Clear demos, written walkthroughs, and visual/video content for products. |
+- **Desktop:** C#, WinForms, Windows utilities and practical interfaces.
+- **APIs & automation:** Python, bots, web services and provider integrations.
+- **Web:** JavaScript, HTML/CSS and interactive demos.
+- **Product thinking:** specifications, architecture, business logic and integration planning.
+- **Technical content:** clear demos, written walkthroughs, and visual/video content for products.
 
 ### Building next
 
